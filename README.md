@@ -1,7 +1,7 @@
 ### Opa! Eu sou Nathan Gomes
 - 🎓 Cursando Ciências da Computação 
 - 📚 Estudando Python
-- 🤔 Fato sobre mim: Todos me chamam pelos meus apelidos, sim são muitos...
+
 <div align="center">
   <a href="https://github.com/NathanSGomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathanSGomes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
