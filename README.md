@@ -36,6 +36,7 @@
   <img height="35" src="https://img.shields.io/badge/TailwindCSS-191919?style=for-the-badge&logo=tailwindcss"> 
   <img height="35" src="https://img.shields.io/badge/Next.js-191919?style=for-the-badge&logo=next.js"> 
   <img height="35" src="https://img.shields.io/badge/Node.js-191919?style=for-the-badge&logo=node.js"> 
+  <img height="35" src="https://img.shields.io/badge/HTMX-191919?style=for-the-badge&logo=htmx"> 
 </div>
 
 <br>
